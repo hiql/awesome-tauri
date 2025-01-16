@@ -113,6 +113,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-plugin-udp](https://github.com/kuyoonjo/tauri-plugin-udp) - UDP socket support.
 - [tauri-plugin-tcp](https://github.com/kuyoonjo/tauri-plugin-tcp) - TCP socket support.
 - [tauri-plugin-mqtt](https://github.com/kuyoonjo/tauri-plugin-mqtt) - MQTT client support.
+- [tauri-plugin-view](https://github.com/ecmel/tauri-plugin-view) - View and share files on mobile.
 
 ### Integrations
 
